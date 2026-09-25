@@ -11,4 +11,4 @@ The project attempted to replicate the results of the exemplar-based inpainting 
 Source code is maintained privately in accordance with university academic integrity requirements.
 
 ## Demo
-upload expected: 9/21-22/2026
+upload expected: 9/28/2026
