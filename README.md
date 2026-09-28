@@ -6,8 +6,7 @@ Inpainting is a technique that fills in plausible backgrounds after an object is
 ![Status](https://img.shields.io/badge/status-complete-2EA44F)
 
 ## Object Removal & Inpainting 
-### I photographed this grey heron in the Kamo River, Kyoto, Japan in September 2024.  The following graphic illustrates inpainting at a very high level by showing the starting photo and mask, the intermediate steps of the inpainting algorithm at work, and the final resulting photograph.  We can see that the grey heron is completely removed from the final photo, as if it was never there in the first place.  
-
+I photographed this grey heron in the Kamo River, Kyoto, Japan in September 2024.  The following graphic illustrates inpainting at a very high level by showing the starting photo and mask, the intermediate steps of the inpainting algorithm at work, and the final resulting photograph with no grey heron.  
 <p align="center">
   <img src="inpainting_graphic.png" width="100%" alt="Photo 1">
 
