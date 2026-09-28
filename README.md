@@ -6,7 +6,7 @@ Inpainting is a technique that fills in plausible backgrounds after an object is
 ![Status](https://img.shields.io/badge/status-complete-2EA44F)
 
 ## Criminisi et al's 2004 paper
-[Link text]([https://example.com](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/criminisi_cvpr2003.pdf))
+[Paper]([https://example.com](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/criminisi_cvpr2003.pdf))
 
 
 ## Object Removal & Inpainting 
