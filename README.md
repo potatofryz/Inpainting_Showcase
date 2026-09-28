@@ -14,7 +14,7 @@ I photographed this grey heron in the Kamo River, Kyoto, Japan in September 2024
 </p>
 
 
-## General Summary of Criminisi et al's Algorithm & My Implementation
+## General Algorithm Summary
 Following Anotonio Criminisi et al’s paper ”Region Filling and Object Removal by Exemplar-Based Image Inpainting," I attempted the replicate the algorithm.  Removing an object is relatively easy, such as using a mask of the object that is to be removed.  Thus, the focus is every step afterward.  After the object is masked, the target region is filled with patches taken from the known parts of the image called the source region. The patch size is set by a window’s height and width. In each iteration, the algorithm identifies the current boundary of the target region, selects a patch along that boundary, and fills it with content from a matching source patch. It then updates the boundary and repeats until the target region is filled. 
 
 
