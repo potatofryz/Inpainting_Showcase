@@ -5,7 +5,12 @@ Inpainting is a technique that fills in plausible backgrounds after an object is
 ![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)
 ![Status](https://img.shields.io/badge/status-complete-2EA44F)
 
+## Demo
 
+<p align="center">
+  <img src="images/inpainting_graphic.png" width="24%" alt="Photo 1">
+
+</p>
 ## Source Code
 
 Source code is maintained privately in accordance with university academic integrity requirements.
