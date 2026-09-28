@@ -5,6 +5,7 @@ Inpainting is a technique that fills in plausible backgrounds after an object is
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
 ![Status](https://img.shields.io/badge/status-complete-2EA44F)
 
 <div align="left">
