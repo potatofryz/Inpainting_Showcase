@@ -2,6 +2,8 @@
 
 Inpainting is a technique that fills in plausible backgrounds after an object is removed from a photograph.  This repo attempted to replicate the results of the exemplar-based inpainting following the methods described in the Criminisi et al (2004)’s [paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/criminisi_cvpr2003.pdf) 
 
+<div align="center">
+
 ![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)
 ![Status](https://img.shields.io/badge/status-complete-2EA44F)
 
