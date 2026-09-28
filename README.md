@@ -18,7 +18,7 @@ I photographed this grey heron in the Kamo River, Kyoto, Japan in September 2024
 
 ## Source Code
 
-Source code is maintained privately in accordance with university academic integrity requirements.
+The final report and source code are maintained privately in accordance with university academic integrity requirements.
 
 
 
