@@ -5,6 +5,10 @@ Inpainting is a technique that fills in plausible backgrounds after an object is
 ![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)
 ![Status](https://img.shields.io/badge/status-complete-2EA44F)
 
+## Criminisi et al's 2004 paper: Object Removal by Exemplar-Based Inpainting
+[View the inpainting walkthrough (PDF)](criminisi_cvpr2003.pdf)
+
+
 ## Object Removal & Inpainting 
 I photographed this grey heron in the Kamo River, Kyoto, Japan in September 2024.  This graphic uses my own photo to show how my inpainting algorithm removes an object, from the original image and mask through intermediate steps to the final result. 
 <p align="center">
@@ -16,5 +20,5 @@ I photographed this grey heron in the Kamo River, Kyoto, Japan in September 2024
 
 Source code is maintained privately in accordance with university academic integrity requirements.
 
-## Demo
-upload expected: 9/28/2026
+
+
