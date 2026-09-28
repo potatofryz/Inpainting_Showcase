@@ -8,7 +8,7 @@ Inpainting is a technique that fills in plausible backgrounds after an object is
 ## Demo
 
 <p align="center">
-  <img src="inpainting_graphic.png" width="24%" alt="Photo 1">
+  <img src="inpainting_graphic.png" width="100%" alt="Photo 1">
 
 </p>
 ## Source Code
